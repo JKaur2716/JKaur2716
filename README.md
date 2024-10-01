@@ -1,5 +1,8 @@
  # Hello, world! 👋
-My name is Jaspreet Kaur. 
+My name is Jaspreet Kaur. I was born in India, but I have spent most of my life here, in Canada. 
+Before coming to Canada, I lived in Spain for a year and learned some Spanish as a kid. 
+Right now, I am a Post-secondary student at SAIT. 
+More about that:
 - I am a Web Design and Development major at SAIT. 
 <!--I am a student at Sait. ...
 -  I’m currently studying Web Design and development.  ...
