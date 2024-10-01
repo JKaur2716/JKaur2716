@@ -11,4 +11,4 @@ Right now, I am a Post-secondary student at <a href= "https://www.sait.ca/"> SAI
 </ul>
 <p>In my free time, I enjoy reading, working on personal projects, and researching new design techniques. I also love taking pictures of nature, as it helps me reconnect with my roots and feel grounded.</p>
 <p>Here is a picture I took.</p>
-<img src="C:Images/Johnston Canyon.jpg">
+<img src="Johnston Canyon.jpg">
