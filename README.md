@@ -1,5 +1,6 @@
  # Hello, world! 👋
 My name is Jaspreet Kaur. 
+- I am a Web Design and Development major at SAIT. 
 <!--I am a student at Sait. ...
 -  I’m currently studying Web Design and development.  ...
 **JKaur2716/JKaur2716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
