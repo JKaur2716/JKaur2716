@@ -1,7 +1,7 @@
  <h1># Hello, world! 👋<h1>
-My name is **Jaspreet Kaur**. 
-<p>I was born in India, but I have spent most of my life in Canada.<p>
-Before coming to Canada, I lived in Spain for a year and learned some Spanish as a kid. 
+<p>My name is **Jaspreet Kaur**.<p>
+<p>I was born in India, but I have spent most of my life in Canada.
+Before coming to Canada, I lived in Spain for a year and learned some Spanish as a kid.<p>
 Right now, I am a Post-secondary student at SAIT. 
 <p>More about that:</p>
 <ul>
