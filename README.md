@@ -10,5 +10,5 @@ Right now, I am a Post-secondary student at <a href= "https://www.sait.ca/"> SAI
    <li>I am a <strong>lifetime learner</strong>. I believe in continuous learning, and I am always looking for ways to improve my skills and stay up to date with the latest trends in web design and development.</li>
 </ul>
 <p>In my free time, I enjoy reading, working on personal projects, and researching new design techniques. I also love taking pictures of nature, as it helps me reconnect with my roots and feel grounded.</p>
-<p>Here is a picture I took.</p>
+<p>Here is a picture I took:</p>
 <img src="Johnston Canyon.jpg" alt="Johnston Canyon" width="216" height="300">
