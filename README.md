@@ -1,14 +1,24 @@
- # Hello, world! 👋
-<p>My name is Jaspreet Kaur.</p>
-<p>I was born in India, but I have spent most of my life in Canada.
-Before coming to Canada, I lived in Spain for a year and learned some Spanish as a kid.</p>
-Right now, I am a Post-secondary student at <a href= "https://www.sait.ca/"> SAIT</a>.
-<p>More about that:</p>
-<ul>
-   <li>I am a <strong>Web Design and Development</strong> at SAIT. This is my first year and I am <em>really</em> excited to finally be in a program that I am passionate about. :smile:</li>
-   <li>I love combining creativity with technical skills, and web development allows me to do just that. I'm passionate about creating user-friendly and visually appealing websites that solve real-world problems.</li>
-   <li>I am a <strong>lifetime learner</strong>. I believe in continuous learning, and I am always looking for ways to improve my skills and stay up to date with the latest trends in web design and development.</li>
-</ul>
-<p>In my free time, I enjoy reading, working on personal projects, and researching new design techniques. I love spending time in nature, as it helps me reconnect with my roots and feel grounded.</p>
-<p>Here is a picture I took:</p>
-<img src="Johnston Canyon.jpg" alt="Johnston Canyon" width="216" height="300">
+
+👩‍💻 Jaspreet Kaur
+Full-Stack Developer | Graphic Designer | Storyteller
+
+I am a developer and designer who lives at the intersection of logical code and intentional design. Based in Calgary, I specialize in building secure, user-centric digital experiences that solve real-world problems. My approach is grounded in technical precision, ethical integrity, and a commitment to my community.
+
+🛠️ Technical Toolkit
+
+Languages: JavaScript (ES6+), PHP, HTML5, CSS3/Sass
+
+Frameworks & Libraries: Node.js, Express.js, React
+
+Backend & Security: MongoDB, MySQL, SSL/HTTPS implementation
+
+Design & No-Code: Webflow, Adobe Illustrator, Canva, Figma
+
+
+🌱 Current Focus
+
+Web Security: Deepening my expertise in secure data routing and middleware.
+
+Visual Storytelling: Combining technical web development with photography to document community heritage and connection.
+
+Webflow Mastery: Building pixel-perfect, responsive sites with a soft-classic aesthetic.
